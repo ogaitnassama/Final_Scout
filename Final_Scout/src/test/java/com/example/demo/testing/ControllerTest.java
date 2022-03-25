@@ -159,13 +159,13 @@ public class ControllerTest{
 		
 		ResultMatcher checkStatus = status().isOk();
 		ResultMatcher checkBody = content().string("Updating report of ID : 1");
-	
+	   
+	}
 	
 	
 	}
 	
 	
 	
-	
-}
+
 

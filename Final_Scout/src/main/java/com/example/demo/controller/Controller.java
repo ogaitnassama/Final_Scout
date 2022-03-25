@@ -77,7 +77,7 @@ public class Controller {
 	
 		service.update(Id, report);
 		
-		String response = "Updating Report of ID : " + Id;
+		String response = "Updated Report of ID : " + Id;
 		return new ResponseEntity<>(response, HttpStatus.ACCEPTED);
 	}
 	
