@@ -18,12 +18,9 @@ Possible improvements for future revisions of the project
 
 - Learn and study more about the use of git hub and how it uses the files in order to prevent any delays and issues. 
 
+- All the Testing images have been pushed up to github, they have their own folder
 
-
-
-
-
-
+**********-IMPORTANT- Risk Assesment is in the same folder as the testing images.**************
 
 
 
