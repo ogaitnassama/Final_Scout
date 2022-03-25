@@ -1,5 +1,5 @@
-DROP TABLE IF EXISTS `scout_info`;
-CREATE TABLE scout_info(
+DROP TABLE IF EXISTS `scoutinfo`;
+CREATE TABLE scoutinfo(
 
 id INT AUTO_INCREMENT NOT NULL,
 player VARCHAR(30) NOT NULL,
